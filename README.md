@@ -25,4 +25,4 @@ You should now be able to run `MyProcessingSketch` by any of IntelliJ's
 usual means. Additionally, `build.sbt` is configured to run its `main` function
 upon `sbt run` in the terminal.
 
-
+todo: turn this into a giter8 project: http://www.foundweekends.org/giter8/usage.html
