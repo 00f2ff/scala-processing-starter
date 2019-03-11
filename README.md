@@ -1,6 +1,6 @@
 # scala-processing-starter
 
-This project provides a simple Scala wrapper around Processing 3.x.x, and is
+This project provides the tools required to get started with Processing 3.x.x, and is
 intended to run in **IntelliJ**.
 Generally, figuring out how to either run Processing in IntelliJ or run
 Processing with Scala can be a huge pain, so hopefully this project helps
