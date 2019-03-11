@@ -1,4 +1,4 @@
-# scala-processing
+# scala-processing-starter
 
 This project provides a simple Scala wrapper around Processing 3.x.x, and is
 intended to run in **IntelliJ**.
